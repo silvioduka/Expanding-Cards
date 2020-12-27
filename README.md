@@ -1,7 +1,7 @@
-# 1-expanding-cards
+# Expanding Cards
 
-## From Uemy - Traversy Media - 50 Projects in 50 days
+## From Udemy - Traversy Media - 50 Projects in 50 days
 
-## Test the project at: 
+## Test project at: 
 
 https://1-expanding-cards.vercel.app/
